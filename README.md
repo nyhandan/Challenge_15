@@ -27,5 +27,11 @@ The mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p
 
 ## Study Design: MechaCar vs Competition
 - One very relevant metric I would test is the fuel effiency. Gas prices are something most consumers think about when buying a car considering how much it will cost them over the life of the car. 
-- To compare the fuel effiency of MechaCars' models vs. their competitors, I would need to 
+- 
+-     Null Hypothesis: MechaCar model fuel effiency = Competitor model fuel effiency
+      Alternative Hypothesis: MechaCar model fuel effiency ≠ Competitor model fuel effiency
+      
+- To compare the fuel effiency of MechaCars' models vs. their competitors, I would need to a few two-sample t-tests. I would do a two sample t- test for multiple comparisons between Mechacar models and the competition. 
+
+- We need sufficient data of car trips for each model we're comparing (preferably more than 30 trips per car). We need to get the miles traveled and the amount of gas used for each trip/car model to compare.
 
