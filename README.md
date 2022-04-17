@@ -12,7 +12,7 @@ This design specification of variance within 100 pounds per square inch is not m
 Here's the results of the t-tests:
 ![entire t-test](https://github.com/nyhandan/Challenge_15/blob/main/Challenge_15/Total%20T-test.png)
 
-The true mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p-Value of 0.06 is larger than the confidence level of .05, we cannot  reject the claim that the population's true mean is 1500.
+The true mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p-Value of 0.06 is larger than the confidence level of .05, we cannot  reject the claim that the population's true mean is 1500. In fact, 95% of the sample means tested for this population will be between 1497.507 and 1500.053, so there's a chance that the true mean is exactly 1500.
 
 
 ![individual t-tests](https://github.com/nyhandan/Challenge_15/blob/main/Challenge_15/3%20t-tests.png)
