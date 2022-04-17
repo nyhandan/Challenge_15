@@ -25,4 +25,6 @@ The mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p
 - Lot 3 has a sample mean of 1496.14, and the p-Value is 0.04168, which is smaller than our confidence level of 0.05. Lot 3 data rejects the null hypothesis. This sample indicates the population mean will be between 1492.431 and 1499.849. 
 
 
+## Study Design: MechaCar vs Competition
+One metric I would test is the fuel effiency. Gas prices are something most consumers think about when buying a car considering how much it will cost them over the life of the car. 
 
