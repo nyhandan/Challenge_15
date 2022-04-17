@@ -26,5 +26,6 @@ The mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p
 
 
 ## Study Design: MechaCar vs Competition
-One metric I would test is the fuel effiency. Gas prices are something most consumers think about when buying a car considering how much it will cost them over the life of the car. 
+- One very relevant metric I would test is the fuel effiency. Gas prices are something most consumers think about when buying a car considering how much it will cost them over the life of the car. 
+- To compare the fuel effiency of MechaCars' models vs. their competitors, I would need to 
 
