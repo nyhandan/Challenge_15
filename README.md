@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
   - The vehicle_length and ground_clearance have p-vaules under .05, indicating that they most likely provide a non-random amount of variance to the mpg values in the dataset.
-  - The p-Value for this model is much smaller than thesignificance level of 0.05%. This means there is sufficient evidence to reject our null hypothesis, so the linear model will not be zero.
+  - The p-Value for this model is much smaller than the significance level of 0.05%. This means there is sufficient evidence to reject our null hypothesis, so the linear model will not be zero.
   - The r-squared value is around 0.7149, so there is moderate-to-strong correlation between the input and output variables. So, this linear model most likely predicts mpg of MechaCar prototypes effectively.
 
 ## Summary Statistics on Suspension Coils
