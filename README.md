@@ -9,3 +9,4 @@
 This design specification of variance within 100 pounds per square inch is not met in all the manufacturing lots. Lot 1 has a variance of 0.9795918, Lot 2 has a variance of 7.4693878, and Lot 3 has a variance of 170.2861224. So, Lots 1 & 2 meet the requirement, but Lot 3 does not. For all the lots, the requirement is not met, but it is for the first 2. 
 
 ## T-Tests on Suspension Coils
+Here's the results of the t-tests:
