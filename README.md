@@ -12,12 +12,17 @@ This design specification of variance within 100 pounds per square inch is not m
 Here's the results of the t-tests:
 ![entire t-test](https://github.com/nyhandan/Challenge_15/blob/main/Challenge_15/Total%20T-test.png)
 
-The true mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p-Value of 0.06 is larger than the confidence level of .05, we cannot  reject the claim that the population's true mean is 1500. In fact, 95% of the sample means tested for this population will be between 1497.507 and 1500.053, so there's a chance that the true mean is exactly 1500.
+The mean of the whole sample is 1498.78, with a p-Value of 0.06. Considering a p-Value of 0.06 is larger than the confidence level of .05, we cannot  reject the claim that the population's true mean is 1500. In fact, 95% of the sample means tested for this population will be between 1497.507 and 1500.053, so there's a chance that the true mean is exactly 1500.
 
 
 ![individual t-tests](https://github.com/nyhandan/Challenge_15/blob/main/Challenge_15/3%20t-tests.png)
 
 
-- Lot 1's true sample mean is 1500, again as we saw in the summary statistics above. With a p-Value of 1, clearly we cannot reject    (i.e. accept) the null hypothesis that there is no statistical difference between the observed sample mean and the presumed population mean (1500).
-- Lot 2 has essentially the same outcome with a sample mean of 1500.02, a p-Value of 0.61; the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
-- Lot 3 is a different scenario. Here the sample mean is 1496.14 and the p-Value is 0.04, which is lower than the common significance level of 0.05. All indicating to reject the null hypothesis that this sample mean and the presumed population mean are not statistically different.
+- Lot 1's sample mean is 1500. The p-value of 1 indicates that this sample gives an abosolute certainty that the mean will be 1500, given each test contains the same data. 
+
+- Lot 2 has a sample mean of 1500.2. It has a p-Value of 0.6072, so the null hypothesis cannot be rejected. There's a significant chance the true population mean will be within the confidence interval: 1499.423 and 1500.977.
+
+- Lot 3 has a sample mean of 1496.14, and the p-Value is 0.04168, which is smaller than our confidence level of 0.05. Lot 3 data rejects the null hypothesis. This sample indicates the population mean will be between 1492.431 and 1499.849. 
+
+
+
